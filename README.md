@@ -1,5 +1,5 @@
 
-## Angular Testing Course
+## Angular Testing Course [![Build Status](https://travis-ci.org/lgxkevin/Angular-Testing-Practise.svg?branch=master)](https://travis-ci.org/lgxkevin/Angular-Testing-Practise)
 
 This repository contains the code of the [Angular Testing Course](https://angular-university.io/course/angular-testing-course).
 
