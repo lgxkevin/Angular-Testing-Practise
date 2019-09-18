@@ -1,5 +1,5 @@
 
-## Angular Testing Course [![Build Status](https://travis-ci.org/lgxkevin/Angular-Testing-Practise.svg?branch=master)](https://travis-ci.org/lgxkevin/Angular-Testing-Practise)
+## Angular Testing Course [![Build Status](https://travis-ci.org/lgxkevin/Angular-Testing-Practise.svg?branch=master)](https://travis-ci.org/lgxkevin/Angular-Testing-Practise) [![Maintainability](https://api.codeclimate.com/v1/badges/7993bc3eb58da73188df/maintainability)](https://codeclimate.com/github/lgxkevin/Angular-Testing-Practise/maintainability)
 
 This repository contains the code of the [Angular Testing Course](https://angular-university.io/course/angular-testing-course).
 
